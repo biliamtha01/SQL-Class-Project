@@ -6,7 +6,7 @@ Video overview:
 
 ## Scope
 
-The purpose of this database is to allow users to see concert events being held. They can sort using city, artist names, and artist genere to see if there are any concerts that they would be interested in.
+The purpose of this database is to allow users to see concert events being held. They can sort using city, artist names, and artist genre to see if there are any concerts that they would be interested in.
 
 * Users who are the people looking for the concert eevents, inculdes their basi informattion.
 * Concert which is what artist is playing along with information such as the artist genre, how much tickets cost, date and time.
